@@ -1,0 +1,2 @@
+# local package // pas besoin de ce requierements // uniquement le requirements dans le dossier src est important
+-e .
