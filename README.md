@@ -80,7 +80,7 @@ source .venv/bin/activate
 ### 3️⃣ Installation des dépendances
 Une fois l’environnement virtuel activé, installez les dépendances nécessaires :
 ```bash
-pip install -r requirements.txt
+pip install -r ./src/requirements.txt
 ```
 
 ### ▶️ Exécution du projet
@@ -132,4 +132,5 @@ Génération du graphique :
 reports/figures/resultat_random_forest.png (courbe rouge)
 
 ➡️ Ce modèle est retenu comme solution finale pour la prédiction de la consommation électrique.
+
 
